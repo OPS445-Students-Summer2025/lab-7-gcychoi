@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-# Student ID: [seneca_id] 
+# Name: lab7d.py
+# Author: Chung Yin Choi
+# Author ID: cychoi
+# Date Created: 2025/07/09
+
 class Time:
     """Simple object type for time of the day.
         data attributes: hour, minute, second
